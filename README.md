@@ -3,10 +3,7 @@ SwipeCard效果是基于Diolor的[Swipecards](https://github.com/Diolor/Swipecar
 thanks Diolor Swipecards  
 
 ## Screenshot
-![screen](https://github.com/xiepeijie/SwipeCardView/blob/master/ezgif.com.gif)
-
-## Relative Project
-[SwipeAdapterView](https://github.com/xiepeijie/SwipeAdapterView)
+![demo](https://github.com/wzgiceman/PathDemo/blob/master/gif/card.gif) 
 
 ## Usage
 ### XML配置：
